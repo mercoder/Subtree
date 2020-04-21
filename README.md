@@ -1,5 +1,4 @@
-# JAVA program which checks whether T2 is a sub-tree of T1, when both the trees are
-represented using adjacency matrix.
+# JAVA program which checks whether T2 is a sub-tree of T1, when both the trees are represented using adjacency matrix.
 
 Application
 Q. A tourist in a city would like to navigate through the city via the metro. The metro map
